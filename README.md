@@ -44,12 +44,12 @@ To complete this project, students should have the following:
   
   ## CSS
   
-  ### cardContainer
+  ### #cardContainer
   
   1. Define a `width` for `cardContainer`
   2. Create a `border` for `cardContainer`
   
-### profilePic
+### #profilePic
 
 1. Define the `width` to always be equal to the `width` of `cardContainer`
 2. Define a `height` for `profilePic`
@@ -58,7 +58,7 @@ To complete this project, students should have the following:
           * `background-position`
           * `background-size`
 
-### profileText
+### #profileText
 
 1. Center the text with `text-align`
 2. Change the `opacity` of the `h3` tag
