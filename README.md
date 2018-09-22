@@ -19,16 +19,5 @@ To complete this project, students should have the following:
 * Create CSS file
 * Link CSS file to HTML file
 
-## Your Challenge
 
-### Part I
-
-To complete Part I, fulfill the following requirements:
-Create the following:
-* HTML file
-* CSS file
-* JS file
-Link all of your files correctly.
-
----
 
