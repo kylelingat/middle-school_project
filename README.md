@@ -27,9 +27,9 @@ To complete this project, students should have the following:
 1. Create a `div` with an ID of `cardContainer`
 2. Inside `cardContainer`, insert two divs called `profilePicture` and `profileText`
 3. Inside `profileText`, insert the following tags:
-     1. `h1` - This will be your name such as "Barry Allen"
-     2. `h3` - This will be your title such as "Forensic Scientist & Speedster"
-     3. `p` - This will be a  bio/description of yourself
+     * `h1` - This will be your name such as "Barry Allen"
+     * `h3` - This will be your title such as "Forensic Scientist & Speedster"
+     * `p` - This will be a  bio/description of yourself
 4. Your HTML structure should look like
   ```
 <div id="cardContainer">
@@ -54,6 +54,9 @@ To complete this project, students should have the following:
 1. Define the `width` to always be equal to the `width` of `cardContainer`
 2. Define a `height` for `profilePic`
 3. Set a `background-image` for `profilePic`. Use an image of yourself or what represents you
+     * If you need to adjust the positioning and size, play around with the following properties
+          * `background-position`
+          * `background-size`
 
 ### profileText
 
@@ -68,4 +71,11 @@ To complete this project, students should have the following:
 
 * Use `box-shadow` instead of `border`
 * Use different web fonts
+
+
+# Resources
+* Please make sure to utilize Google!
+* [Background image properties](https://www.w3schools.com/cssref/pr_background-image.asp)
+* [Border](https://www.w3schools.com/css/css_border.asp)
+
   
