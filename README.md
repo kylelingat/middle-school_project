@@ -85,7 +85,7 @@ background-img | Set a background image of an element
 background-position | Set the position of a background image of an element
 background-size | Set the size of a background image
 text-align | The alignment of text in an element
-Opacity | Opacity level of an element
+opacity | Opacity level of an element
 
 # Stretch Goals
 
