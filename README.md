@@ -67,6 +67,26 @@ To complete this project, students should have the following:
 
 ![Screenshot](https://i.imgur.com/gLlhL4k.png)
 
+# Concepts
+HTML | Description
+-----|------------
+div | A container element.
+id | Specify an unique ID for an individual HTML element
+h1 | Heading element 1
+h3 | Heading element 3 
+p | Paragraph tag
+
+CSS | Description
+----|------------
+width |  Width of an element
+height | Height of an element
+border | Border around an element 
+background-img | Set a background image of an element
+background-position | Set the position of a background image of an element
+background-size | Set the size of a background image
+text-align | The alignment of text in an element
+Opacity | Opacity level of an element
+
 # Stretch Goals
 
 * Use `box-shadow` instead of `border`
